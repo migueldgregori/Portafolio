@@ -329,9 +329,11 @@ html {
         width: 0%;
     }
     100% {
-        width: 75%;
+        width: 80%;
     }
 }
+
+
 
 .skills .skill .htmlcss {
     width: 0%;
@@ -343,58 +345,32 @@ html {
         width: 0%;
     }
     100% {
-        width: 89%;
+        width: 70%;
     }
 }
 
-.skills .skill .photoshop {
+
+.skills .skill .TrabajoE {
     width: 0%;
-    animation: 2s photoshop forwards;
+    animation: 2s TrabajoE forwards;
 }
 
-@keyframes photoshop {
+@keyframes TrabajoE {
     0% {
         width: 0%;
     }
     100% {
-        width: 95%;
+        width: 60%;
     }
 }
 
-.skills .skill .wordpress {
+
+.skills .skill .Comunicacion {
     width: 0%;
-    animation: 2s wordpress forwards;
+    animation: 2s Comunicacion forwards;
 }
 
-@keyframes wordpress {
-    0% {
-        width: 0%;
-    }
-    100% {
-        width: 81%;
-    }
-}
-
-.skills .skill .drupal {
-    width: 0%;
-    animation: 2s drupal forwards;
-}
-
-@keyframes drupal {
-    0% {
-        width: 0%;
-    }
-    100% {
-        width: 55%;
-    }
-}
-
-.skills .skill .comunicacion {
-    width: 0%;
-    animation: 2s comunicacion forwards;
-}
-
-@keyframes comunicacion {
+@keyframes Comunicacion {
     0% {
         width: 0%;
     }
@@ -403,12 +379,43 @@ html {
     }
 }
 
-.skills .skill .trabajo {
+
+.skills .skill .Python {
     width: 0%;
-    animation: 2s trabajo forwards;
+    animation: 2s Python forwards;
 }
 
-@keyframes trabajo {
+@keyframes Python {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 95%;
+    }
+}
+
+
+.skills .skill .Creatividad {
+    width: 0%;
+    animation: 2s Creatividad forwards;
+}
+
+@keyframes Creatividad {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 80%;
+    }
+}
+
+
+.skills .skill .Dedicacion {
+    width: 0%;
+    animation: 2s Dedicacion forwards;
+}
+
+@keyframes Dedicacion {
     0% {
         width: 0%;
     }
@@ -417,47 +424,8 @@ html {
     }
 }
 
-.skills .skill .creatividad {
-    width: 0%;
-    animation: 2s creatividad forwards;
-}
 
-@keyframes creatividad {
-    0% {
-        width: 0%;
-    }
-    100% {
-        width: 99%;
-    }
-}
 
-.skills .skill .dedicacion {
-    width: 0%;
-    animation: 2s dedicacion forwards;
-}
-
-@keyframes dedicacion {
-    0% {
-        width: 0%;
-    }
-    100% {
-        width: 65%;
-    }
-}
-
-.skills .skill .proyect {
-    width: 0%;
-    animation: 2s proyect forwards;
-}
-
-@keyframes proyect {
-    0% {
-        width: 0%;
-    }
-    100% {
-        width: 94%;
-    }
-}
 
 
 /* SECCION CURRICULUM */
